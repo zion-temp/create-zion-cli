@@ -1,12 +1,14 @@
 {
   "name": "create-zion-cli",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "",
   "bin": "./bin/create-zion-cli.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "cli"
+  ],
   "author": "lxl",
   "license": "ISC",
   "dependencies": {
